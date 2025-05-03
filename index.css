@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff;
+  }
+  .hero {
+    background: linear-gradient(to right, #e9f8f6, #fff);
+    padding: 80px 0;
+  }
+  .btn-danger {
+    background-color: #ff5a5f;
+    border: none;
+  }
+  .btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+  }
+  .form-card {
+    background: #f9f9f9;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05);
+  }
+  .section-title {
+    font-weight: bold;
+    font-size: 32px;
+  }
+  .tech-card {
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 500;
+  }
+  
+  
+  .hero {
+    background: linear-gradient(to right, #e9f8f6, #fff);
+    padding: 80px 0;
+  }
+  .form-card {
+    background: #f9f9f9;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05);
+  }
+  .tech-card {
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 500;
+  }
+  .section-title {
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .process-step {
+    text-align: center;
+  }
+  .process-step span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #28a745;
+  }
+  .nav-pills .nav-link.active {
+    background-color: #28a745;
+  }
